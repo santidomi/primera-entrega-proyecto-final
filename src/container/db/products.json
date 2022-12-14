@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "24/11/2022, 11:18:42",
+    "name": "Pelota de futbol",
+    "description": "La pelota oficial del mundial 2022",
+    "code": "01",
+    "pic": "https://assets.adidas.com/images/w_600,f_auto,q_auto/28530d07245942fc944dae680084fb30_9366/Pelota_Al_Rihla_Pro_Blanco_H57783_01_standard.jpg",
+    "price": 3000,
+    "stock": 5,
+    "id": 1
+  },
+  {
+    "timestamp": "24/11/2022, 11:59:02",
+    "name": "Pelota de independiente",
+    "description": "LA pelota mas linde del mundo",
+    "code": "01",
+    "pic": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/165/935/products/pelota-futbol-numer-5-cai1-2d8e9261eeea2394b116158208577542-640-0.jpg",
+    "price": 2000,
+    "stock": 1,
+    "id": 2
+  }
+]

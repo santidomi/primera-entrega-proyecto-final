@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "23/11/2022, 10:07:20",
+    "products": [],
+    "id": 1
+  },
+  {
+    "timestamp": "24/11/2022, 11:18:42",
+    "products": [
+      {
+        "timestamp": "24/11/2022, 11:18:42",
+        "name": "Pelota de futbol",
+        "description": "La pelota oficial del mundial 2022",
+        "code": "01",
+        "pic": "https://assets.adidas.com/images/w_600,f_auto,q_auto/28530d07245942fc944dae680084fb30_9366/Pelota_Al_Rihla_Pro_Blanco_H57783_01_standard.jpg",
+        "price": 3000,
+        "stock": 3,
+        "id": 1
+      }
+    ],
+    "id": 2
+  }
+]
